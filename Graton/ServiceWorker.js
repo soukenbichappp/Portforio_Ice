@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Graton-1.0";
 const contentToCache = [
     "Build/Graton.loader.js",
-    "Build/Graton.framework.js.br",
-    "Build/Graton.data.br",
-    "Build/Graton.wasm.br",
+    "Build/Graton.framework.js",
+    "Build/Graton.data",
+    "Build/Graton.wasm",
     "TemplateData/style.css"
 
 ];
